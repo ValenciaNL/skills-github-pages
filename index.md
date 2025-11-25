@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title:  no-title (sample page)
 ---
 
